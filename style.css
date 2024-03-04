@@ -1,0 +1,7 @@
+p{
+    color: red;
+}
+.main-box{
+    display: flex;
+    flex-direction: row;
+}
